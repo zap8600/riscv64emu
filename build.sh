@@ -1,2 +1,2 @@
 #! /bin/sh
-gcc main.c src/*.c -I./include -o main
+gcc main.c -o main
